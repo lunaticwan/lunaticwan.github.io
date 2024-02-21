@@ -1,14 +1,42 @@
-# lunaticwan.github.io
+시범 제도: 기술 스터디 및 사이드 프로젝트 지원
 
-[React Foundations 0: 소개](/61_React_Foundations/React%20Foundations%200_%20소개.md)  
-[React Foundations 1: React와 Next.js에 대하여](/61_React_Foundations/React%20Foundations%201_%20React와%20Next.js에%20대하여.md)  
-[React Foundations 2: 사용자 인터페이스(UI) 렌더링](/61_React_Foundations/React%20Foundations%202_%20사용자%20인터페이스(UI)%20렌더링.md)  
-[React Foundations 3: 자바스크립트로 UI 업데이트하기](/61_React_Foundations/React%20Foundations%203_%20자바스크립트로%20UI%20업데이트하기.md)  
-[React Foundations 4: React 시작하기](/61_React_Foundations/React%20Foundations%204_%20React%20시작하기.md)  
-[React Foundations 5: 컴포넌트로 UI 구축하기](/61_React_Foundations/React%20Foundations%205_%20컴포넌트로%20UI%20구축하기.md)  
-[React Foundations 6: Props를 사용하여 데이터 표시하기](/61_React_Foundations/React%20Foundations%206_%20Props를%20사용하여%20데이터%20표시하기.md)  
-[React Foundations 7: 상태를 이용한 상호작용 추가하기](/61_React_Foundations/React%20Foundations%207_%20상태를%20이용한%20상호작용%20추가하기.md)  
-[React Foundations 8: React에서 Next.js로](/61_React_Foundations/React%20Foundations%208_%20React에서%20Next.js로.md)  
-[React Foundations 9: Next.js 설치하기](/61_React_Foundations/React%20Foundations%209_%20Next.js%20설치하기.md)  
-[React Foundations 10: 서버와 클라이언트 컴포넌트](/61_React_Foundations/React%20Foundations%2010_%20서버와%20클라이언트%20컴포넌트.md)  
-[React Foundations 11: 다음 단계](/61_React_Foundations/React%20Foundations%2011_%20다음%20단계.md)  
+# 시범 제도: 기술 스터디 그룹 및 사이드 프로젝트 지원
+
+ICT그룹에서는 최근 기술 변화에 발맞추어 직원들의 역량 강화와 협업 촉진을 위한 사이드 프로젝트 및 스터디 그룹 지원을 시범 운영. 이에 따른 지원 예정, 아래 내용을 참고.
+
+### 1. 배경
+현재 금융 산업은 급격한 디지털 변화를 겪고 있으며, 당행 또한 대격변을 앞두고 있음. 이에 대응하기 위해선 지속적인 학습과 기술 개발이 필수. 
+
+### 1. 목적
+본 사이드 프로젝트 및 스터디 그룹의 목적은 최신 기술 동향에 대한 이해를 높이고, 실무에 적용 가능한 신기술 습득을 목표.
+
+### 2. 프로젝트 개요
+- **주제:** MSA 관련 백엔드 혹은 프론트엔드, 클라우드 환경, 빅데이터 등
+- **참여 자격:** ICT그룹 및 정보보호부 소속 직원 (협력직 포함)
+- **운영 기간:** 2024년 ×월부터 ×월까지, 총 ×개월
+
+### 3. 목표 및 기대 효과
+- 단기적 목표: 참여 직원들의 관련 기술 역량 강화
+- 장기적 목표: 당행 내부 시스템의 자체 개발 역량
+- 기대 효과: 업무 효율성 증가, 팀워크 강화, 기술 혁신을 통한 서비스 개선
+
+### 4. 지원 사항
+- **재정 지원:** ~~관련 서적 구입 및 온라인 강좌 수강료 지원~~
+- **시간적 여유:** ~~주 1회, 2시간씩 근무시간 중 스터디 및 프로젝트 진행 허용~~
+- **기술적 자원:** ~~클라우드 서비스 이용료 지원, 필요한 소프트웨어 라이선스 제공~~
+
+### 5. 진행 계획 및 일정
+- **시작일:** 2024년 ×월 ×일
+- **중간 점검:** 
+- **최종 결과물 제출:** 2024년 ×월
+- **최종 보고:** 2024년
+
+### 6. 예상 결과물 및 평가 방법
+- **결과물:** 구성된 팀의 성격에 따라 달리함
+- **평가:** 결과물 완성도, 기술적 혁신성, 실무 적용 가능성
+
+### 7. 참여자 명단 및 역할
+(참여자 명단 및 각자의 예상 역할과 책임 범위)
+
+### 8. 결론
+본 제도의 시범 운영을 통해 직원들의 주체적인 역량 강화를 장려. 팀워크 및 직원간 협업 능력 향상. 전체적인 조직 문화에 긍정적 효과 기대.
