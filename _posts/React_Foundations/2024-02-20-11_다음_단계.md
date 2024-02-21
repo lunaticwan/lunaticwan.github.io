@@ -1,0 +1,17 @@
+# 11장: 다음 단계 - Next Steps
+
+첫 Next.js 애플리케이션을 만드신 것을 축하드립니다!
+
+요약하자면, React와 Next.js에 대한 기초적인 지식을 탐구했으며, 단순한 React 애플리케이션에서 Next.js 애플리케이션으로 마이그레이션했습니다.
+
+## 다음은 무엇일까요? - What's next?
+
+### React 학습 계속하기 - Continue learning React
+
+수년에 걸쳐, 개발자들이 React를 배울 수 있도록 많은 과정, 비디오, 기사가 만들어졌습니다. 학습 스타일에 맞는 자료를 추천하기는 어렵지만, **React 문서**는 주제를 연습할 수 있는 인터랙티브 샌드박스를 포함하고 있어 매우 귀중한 참고 자료입니다.
+> **React 문서** https://react.dev/
+
+### 대시보드 앱을 만들며 Next.js 배우기 - Learn Next.js by building a dashboard app
+
+대시보드 앱 만들기를 통해 Next.js 학습을 계속하세요 - 이 과정은 **주요** Next.js 기능을 소개하고 더 복잡한 프로젝트를 구축하며 연습하게 될 것입니다.
+> 대시보드 앱 만들기 https://nextjs.org/learn/dashboard-app
