@@ -3,7 +3,6 @@
 * [스터디 그룹: 새로운 기술을 활용한 노후 시스템 정비](/_posts/2024-02-21-스터디_그룹_새로운_기술을_활용한_노후_시스템_정비.md)
 
 ***
-![_posts/React_Foundations/_resources/image_url__2Flearn_2Flight_2Flea_0aa69d89befe4510b.png]
 
 ### React Foundations
 0. [소개](/_posts/React_Foundations/2024-02-20-0_소개.md)
