@@ -6,6 +6,7 @@
 ---
 
 ## React Foundations
+> Original source: <https://nextjs.org/>
 
 0. [소개](/_posts/React_Foundations/2024-02-20-0_소개.md)
 1. [React와 Next.js에 대하여](/_posts/React_Foundations/2024-02-20-1_React와_Next.js에_대하여.md)
@@ -21,6 +22,7 @@
 11. [다음 단계](/_posts/React_Foundations/2024-02-20-11_다음_단계.md)
 
 ## Learn Next.js
+> Original source: <https://nextjs.org/>
 
 0. [소개](/_posts/Learn_Nextjs/2024-02-26-00_소개.md)
 1. [시작하기](/_posts/Learn_Nextjs/2024-02-26-01_시작하기.md)
