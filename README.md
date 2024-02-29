@@ -6,6 +6,7 @@
 ---
 
 ## React Foundations
+
 > Original source: <https://nextjs.org/>
 
 0. [소개](/_posts/React_Foundations/2024-02-20-0_소개.md)
@@ -21,7 +22,10 @@
 10. [서버와 클라이언트 컴포넌트](/_posts/React_Foundations/2024-02-20-10_서버와_클라이언트_컴포넌트.md)
 11. [다음 단계](/_posts/React_Foundations/2024-02-20-11_다음_단계.md)
 
+---
+
 ## Learn Next.js
+
 > Original source: <https://nextjs.org/>
 
 0. [소개](/_posts/Learn_Nextjs/2024-02-26-00_소개.md)
