@@ -16,6 +16,7 @@ Disallow: /
 `Original source: https://nextjs.org/`
 
 - [소개](/_posts/React_Foundations/2024-02-20-0_소개.md)
+
 1. [React와 Next.js에 대하여](/_posts/React_Foundations/2024-02-20-1_React와_Next.js에_대하여.md)
 2. [사용자 인터페이스(UI) 렌더링](/_posts/React_Foundations/2024-02-20-2_사용자_인터페이스_렌더링.md)
 3. [자바스크립트로 UI 업데이트하기](/_posts/React_Foundations/2024-02-20-3_자바스크립트로_UI_업데이트하기.md)
@@ -35,6 +36,7 @@ Disallow: /
 `Original source: https://nextjs.org/`
 
 - [소개](/_posts/Learn_Nextjs/2024-02-26-00_소개.md)
+
 1. [시작하기](/_posts/Learn_Nextjs/2024-02-26-01_시작하기.md)
 2. [CSS 스타일링](/_posts/Learn_Nextjs/2024-02-26-02_CSS_스타일링.md)
 3. [폰트와 이미지 최적화](/_posts/Learn_Nextjs/2024-02-26-03_폰트와_이미지_최적화.md)
