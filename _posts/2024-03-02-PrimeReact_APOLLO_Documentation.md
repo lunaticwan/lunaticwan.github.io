@@ -242,7 +242,7 @@ $highlightTextColor: $primaryDarkerColor !default;
 
 ---
 
-## 테마 스위처
+## 테마 스위처 - Theme Switcher
 
 동적 테마는 템플릿에 내장되어 있으며, 링크 태그를 통해 테마를 포함하여 구현되며, 테마를 동적으로 전환하기 위한 구성 요소와 함께 번들링하지 않습니다. 테마를 동적으로 전환하려면 css로 컴파일해야 합니다. css를 컴파일하는 예제 sass 명령은 다음과 같습니다;
 
@@ -254,6 +254,6 @@ sass --update public/theme/mytheme/theme.scss:public/theme/mytheme/theme.css
 
 ---
 
-## 마이그레이션
+## 마이그레이션 - Migration
 
 **CHANGELOG.md** 파일에 중요한 변경 사항이 포함되어 있으며, 배포의 루트 폴더에 업데이트 지침과 함께 포함되어 있습니다. 마이그레이션 프로세스는 주로 `layout` 폴더와 `styles/layout` 폴더를 업데이트하는 것을 요구합니다.
